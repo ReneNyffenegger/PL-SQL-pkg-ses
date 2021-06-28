@@ -1,6 +1,6 @@
 create or replace package body ses_mgmt as
  --
- -- Version 0.2
+ -- Version 0.1
  --
 
     g_id  integer;
